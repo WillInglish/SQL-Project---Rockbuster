@@ -1,4 +1,4 @@
-> This SQL query utlizes JOINS to output the Top 10 countries by number of customers
+-- This SQL query utlizes JOINS to output the Top 10 countries by number of customers
 
 SELECT D.country,	
   COUNT(customer_id) AS "number of customers"
