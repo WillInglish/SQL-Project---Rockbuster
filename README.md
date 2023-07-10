@@ -27,9 +27,10 @@ Here are the tables seperated by Fact and Dimensions.
 
 ### Tools Used
 Language: PostgreSQL
+
 Software: pgAdmin, Tableau, Excel
 
 ## Source and Tableau Public Link
-The source came from Rockbuster. Here is the [data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
+The source came from Rockbuster, here is the [data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
 The Visualizations are on my Tableau Public, here is the [Link](https://public.tableau.com/app/profile/william.inglish) 
