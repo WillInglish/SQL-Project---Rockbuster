@@ -25,5 +25,6 @@ Here are the tables seperated by Fact and Dimensions.
 12. Staff
 13. Store
     
-## Source
+## Source and Tableau Public Link
 The source came from Rockbuster. Here is the [data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+Here is my Tableau Public [Link](https://public.tableau.com/app/profile/william.inglish) for any visuals in my presentation. 
