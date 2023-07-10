@@ -1,4 +1,4 @@
-# SQL-Project-
+# SQL-Project- **Rockbuster Stealth Movie Analysis**
 
 ## Objective
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. The stakeholders (***The BI department***) wants me to help with a strategy for the new online service. They would like me to answer some sales insights and recommend what to implement to compete with other online streaming services.
