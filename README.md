@@ -25,7 +25,7 @@ Here are the tables seperated by Fact and Dimensions.
 12. Staff
 13. Store
 
-### Tools Used
+## Tools Used
 Language: PostgreSQL
 
 Software: pgAdmin, Tableau, Excel
